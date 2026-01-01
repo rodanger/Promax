@@ -1,6 +1,7 @@
-Thanks for downloading this template!
+Promax Cleaning Company
 
-Template Name: CoreBiz
+Template Name: Promax Cleaning
 Template URL: https://bootstrapmade.com/corebiz-bootstrap-business-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Author: Rodv
+License: Rodv
+
