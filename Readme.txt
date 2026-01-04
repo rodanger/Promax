@@ -1,8 +1,8 @@
 Promax Cleaning Company
 
-Template Name: Promax Cleaning
-Template URL: https://rodanger.github.io/Promax/
+Template Name: https://www.promaxcleaning.ca/
 Author: Rodv
 License: Rodv
+
 
 
